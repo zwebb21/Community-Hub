@@ -1,0 +1,13 @@
+#home-title{
+margin-top: 40px;
+color: rgb(133, 82, 175);
+font-size: 5.3em;
+}   
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5em; /* Adjust font size for medium screens */
+    }
+}
+
